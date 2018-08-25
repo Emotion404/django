@@ -1,1 +1,1 @@
-sudo fuser -k 8000/tcp
+杀死8000端口指令：sudo fuser -k 8000/tcp
